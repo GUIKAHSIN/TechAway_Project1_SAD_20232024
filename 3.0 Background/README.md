@@ -1,7 +1,10 @@
-# 3.0 Backgrounf study
+# 3.0 Backgrounf study🐫
 
 KADA currently relies on a Document Management System (DMS) that has been in use for the past 15 years. This system requires filling out physical forms to record data. Users must complete a form to apply for membership or a loan and then submit it for processing.
-<img src="3.0 Background/Figure 3.1.jpg" align="center" alt="Figure 3.1" title="Member Registration Form"/>
+
+<img src="Figure 3.1.jpg" align="center" alt="Figure 3.1" title="Member Registration Form"/>
+
+
 Figure 3.1 is a KADA member registration form. KADA current membership registration process relies on a paper form that applicants must fill out and submit. The process requires individuals to provide personal, employment and family information and agree to various fees and contributions. However, this manual system takes a long time, it also prone to data entry errors, and requires a lot of physical storage space. In addition, it limits the accessibility of potential members who cannot easily obtain or submit the form in person.
 
 Figure 3.2 show KADA loan application form. A good loan application process should be user-friendly, efficient, accurate, secure, accessible online, and transparent. But KADA current manual process is time-consuming, error-prone and requires physical storage. Digital systems will simplify the applications, improve efficiency, reduce errors, improve accessibility, and secure data by storing it in a data store.
